@@ -2,7 +2,7 @@
 
 ### 1) 🥇 **Horuss Productathon Winner**
 
-* **Awarded 1st prize** in the Horuss Productathon, organized by GDSC GECT.
+* **Awarded 1st prize** in the Horuss Productathon, organized by GDSC GECT for presenting **Wytty**.
 
 * [See Certificate](https://github.com/JohnPaulNaiju/achievements/blob/main/JOHN%20PAUL%20NAIJU%281%29.jpg)
 
@@ -11,3 +11,7 @@
 * Participated in the **Build With AI** hackathon, conducted by Google Developer Groups in collaboration with Kerala Startup Mission.
 
 * [See Certificate](https://github.com/JohnPaulNaiju/achievements/blob/main/John%20Paul%20Naiju.pdf)
+
+### 3) 🤖 **IEDC College level Ideafest Winner**
+
+* **Awarded 1st prize** for presenting 4note, an AI powered note taking application.
