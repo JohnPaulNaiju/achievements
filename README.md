@@ -12,6 +12,6 @@
 
 * [See Certificate](https://github.com/JohnPaulNaiju/achievements/blob/main/John%20Paul%20Naiju.pdf)
 
-### 3) 🤖 **IEDC College level Ideafest Winner**
+### 3) 🤖 **IEDC College Level Ideafest Winner**
 
-* **Awarded 1st prize** for presenting 4note, an AI powered note taking application.
+* **Awarded 1st prize** for presenting **4note**, an AI powered note taking application.
