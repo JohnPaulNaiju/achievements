@@ -15,3 +15,5 @@
 ### 3) 🤖 **IEDC College Level Ideafest Winner**
 
 * **Awarded 1st prize** for presenting **4note**, an AI powered note taking application.
+
+*  [See Certificate](https://github.com/JohnPaulNaiju/achievements/blob/main/ideafest.pdf)
