@@ -6,6 +6,8 @@
 
 * [See Certificate](https://github.com/JohnPaulNaiju/achievements/blob/main/certificates/JOHN%20PAUL%20NAIJU(1).jpg)
 
+* [Related to Wytty](https://github.com/JohnPaulNaiju/wytty)
+
 ### 2) 🤖 **Build With AI Hackathon Participant**
 
 * Participated in the **Build With AI** hackathon, conducted by Google Developer Groups in collaboration with Kerala Startup Mission.
@@ -17,3 +19,5 @@
 * **Awarded 1st prize** for presenting **4note**, an AI powered note taking application.
 
 *  [See Certificate](https://github.com/JohnPaulNaiju/achievements/blob/main/certificates/ideafest.pdf)
+
+*  [Related to 4note](https://github.com/JohnPaulNaiju/4note)
