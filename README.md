@@ -13,6 +13,7 @@
 * Participated in the **Build With AI** hackathon, conducted by Google Developer Groups in collaboration with Kerala Startup Mission.
 
 * [See Certificate](https://github.com/JohnPaulNaiju/achievements/blob/main/certificates/John%20Paul%20Naiju.pdf)
+* [See related](https://github.com/ecoholic84/nividaCorps)
 
 ### 3) 🤖 **IEDC College Level Ideafest Winner**
 
